@@ -4,7 +4,7 @@ require.config({
         'views': 'application/views'
     },
     shim: {
-        'hd': {
+        'views': {
             deps: ['jquery']
         }
     }
